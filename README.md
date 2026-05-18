@@ -1,9 +1,11 @@
-````md id="bashar-github-header"
+# GitHub README Profile
+
+````md
 <div align="center">
 
 # Bashar Al-Qadri | بشار القادري 👋
 
-### 💻 Web Developer | 🛡️ Cybersecurity Student | 🎬 YouTube Content Creator
+### 💻 Web Developer &nbsp; | &nbsp; 🛡️ Cybersecurity Student &nbsp; | &nbsp; 🎬 YouTube Content Creator
 
 <br>
 
@@ -14,19 +16,19 @@
 <br>
 
 <a href="https://youtube.com/">
-  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/WEBSITE-1E1E1E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <a href="https://t.me/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/قناتي_على_يوتيوب-D62828?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://yourwebsite.com">
+  <img src="https://img.shields.io/badge/WEBSITE-1E1E1E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://yourwebsite.com">
+  <img src="https://img.shields.io/badge/LearnSimply.com-1877F2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -35,17 +37,41 @@
 
 # 🟢 About Me
 
-I'm **Bashar Al-Qadri**, a Web Developer, Cybersecurity Student, and Content Creator.  
+I'm **Bashar Al-Qadri**, a Web Developer, Cybersecurity Student, and Content Creator.
 
-I enjoy building modern web applications, learning cybersecurity, and sharing programming knowledge with Arabic content creators and learners.
+I love building useful things, breaking them to learn, and sharing knowledge that helps others.
 
 <br>
 
 <div align="center">
 
-| 💻 Code | 🛡️ Secure | 🎥 Create |
-|:---:|:---:|:---:|
-| Building responsive web apps | Learning cybersecurity daily | Creating programming content |
+<table>
+<tr>
+<td align="center" width="300">
+
+## 💻 Code
+
+I build modern, responsive web applications.
+
+</td>
+
+<td align="center" width="300">
+
+## 🛡️ Secure
+
+I learn and practice cybersecurity daily.
+
+</td>
+
+<td align="center" width="300">
+
+## 🎥 Create
+
+I teach programming & tech on YouTube.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -53,39 +79,77 @@ I enjoy building modern web applications, learning cybersecurity, and sharing pr
 
 # ⚡ Tech Stack
 
-### 👨‍💻 Languages
+<table>
+<tr>
+<td valign="top" width="20%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=FFD43B)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat&logo=php&logoColor=777BB4)
-![Bash](https://img.shields.io/badge/Bash-111111?style=flat&logo=gnubash&logoColor=4EAA25)
+### Languages
 
-### 🌐 Frontend
+- JavaScript
+- Python
+- PHP
+- C++
+- Bash
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=flat&logo=tailwind-css&logoColor=38B2AC)
+</td>
 
-### 🛡️ Cybersecurity
+<td valign="top" width="20%">
 
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat&logo=linux&logoColor=FCC624)
-![Nmap](https://img.shields.io/badge/Nmap-111111?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=flat&logo=wireshark&logoColor=1679A7)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-111111?style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=flat)
+### Frontend
+
+- HTML5
+- CSS3
+- React
+- Tailwind CSS
+- Flutter
+
+</td>
+
+<td valign="top" width="20%">
+
+### Backend & Database
+
+- Firebase
+- MySQL
+- SQLite
+
+</td>
+
+<td valign="top" width="20%">
+
+### Tools & Platforms
+
+- Git & GitHub
+- VS Code
+- Linux
+- Postman
+- Figma
+
+</td>
+
+<td valign="top" width="20%">
+
+### Cybersecurity
+
+- Linux
+- Wireshark
+- Nmap
+- Burp Suite
+- Metasploit
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📚 Currently Learning
+# 🧠 Currently Learning
 
 ```js
 const currentFocus = [
-  "Web Penetration Testing",
-  "Network Security",
-  "Python Automation",
-  "Linux",
-  "Bug Bounty"
+  'Web Penetration Testing',
+  'Network Security',
+  'Python for Automation'
 ];
 ````
 
