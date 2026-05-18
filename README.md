@@ -1,34 +1,31 @@
-# GitHub README Profile
-
-````md
 <div align="center">
 
 # Bashar Al-Qadri | بشار القادري 👋
 
-### 💻 Web Developer &nbsp; | &nbsp; 🛡️ Cybersecurity Student &nbsp; | &nbsp; 🎬 YouTube Content Creator
+### 💻 Web Developer   |   🛡️ Cybersecurity Student   |   🎬 YouTube Content Creator
 
 <br>
 
-🔥 Building secure & modern web applications  
-🎯 Learning, practicing and sharing knowledge  
-🖥️ Creating useful content on YouTube in Arabic  
+🔥 Building secure & modern web applications
+🎯 Learning, practicing and sharing knowledge
+🖥️ Creating useful content on YouTube in Arabic
 
 <br>
 
 <a href="https://youtube.com/">
-  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://t.me/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/قناتي_على_يوتيوب-D62828?style=for-the-badge&logo=youtube&logoColor=white" />
+<a href="https://youtube.com/">
+  <img src="https://img.shields.io/badge/قناتي_على_يوتيوب-D62828?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://yourwebsite.com">
-  <img src="https://img.shields.io/badge/WEBSITE-1E1E1E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="#">
+  <img src="https://img.shields.io/badge/WEBSITE-1E1E1E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://yourwebsite.com">
-  <img src="https://img.shields.io/badge/LearnSimply.com-1877F2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="#">
+  <img src="https://img.shields.io/badge/LearnSimply.com-1877F2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -47,7 +44,8 @@ I love building useful things, breaking them to learn, and sharing knowledge tha
 
 <table>
 <tr>
-<td align="center" width="300">
+
+<td width="33%" align="center">
 
 ## 💻 Code
 
@@ -55,7 +53,7 @@ I build modern, responsive web applications.
 
 </td>
 
-<td align="center" width="300">
+<td width="33%" align="center">
 
 ## 🛡️ Secure
 
@@ -63,13 +61,14 @@ I learn and practice cybersecurity daily.
 
 </td>
 
-<td align="center" width="300">
+<td width="33%" align="center">
 
 ## 🎥 Create
 
 I teach programming & tech on YouTube.
 
 </td>
+
 </tr>
 </table>
 
@@ -80,16 +79,18 @@ I teach programming & tech on YouTube.
 # ⚡ Tech Stack
 
 <table>
+
 <tr>
+
 <td valign="top" width="20%">
 
 ### Languages
 
-- JavaScript
-- Python
-- PHP
-- C++
-- Bash
+* JavaScript
+* Python
+* PHP
+* C++
+* Bash
 
 </td>
 
@@ -97,11 +98,11 @@ I teach programming & tech on YouTube.
 
 ### Frontend
 
-- HTML5
-- CSS3
-- React
-- Tailwind CSS
-- Flutter
+* HTML5
+* CSS3
+* React
+* Tailwind CSS
+* Flutter
 
 </td>
 
@@ -109,9 +110,9 @@ I teach programming & tech on YouTube.
 
 ### Backend & Database
 
-- Firebase
-- MySQL
-- SQLite
+* Firebase
+* MySQL
+* SQLite
 
 </td>
 
@@ -119,11 +120,11 @@ I teach programming & tech on YouTube.
 
 ### Tools & Platforms
 
-- Git & GitHub
-- VS Code
-- Linux
-- Postman
-- Figma
+* Git & GitHub
+* VS Code
+* Linux
+* Postman
+* Figma
 
 </td>
 
@@ -131,14 +132,16 @@ I teach programming & tech on YouTube.
 
 ### Cybersecurity
 
-- Linux
-- Wireshark
-- Nmap
-- Burp Suite
-- Metasploit
+* Linux
+* Wireshark
+* Nmap
+* Burp Suite
+* Metasploit
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -151,7 +154,7 @@ const currentFocus = [
   'Network Security',
   'Python for Automation'
 ];
-````
+```
 
 ---
 
@@ -174,6 +177,5 @@ const currentFocus = [
 ### 🚀 Stay curious, keep learning, and never stop building.
 
 </div>
-```
 
 
