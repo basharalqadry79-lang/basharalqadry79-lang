@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bashar Al-Qadri | بشار القادري 👋
+# Bashar Al-Qadry | بشار القادري 👋
 
 ### 💻 Web Developer   |   🛡️ Cybersecurity Student   |   🎬 YouTube Content Creator
 
